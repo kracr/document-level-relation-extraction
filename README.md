@@ -4,7 +4,7 @@ Graph Link Prediction </h3>
 
 ![Sample Image](https://anonymous.4open.science/r/DocRE-CED1/modeldiagram.png)
 
-s
+
 
 ## Acknowledgments
 This repository contains code adapted from the following research papers for the purpose of document-level relation extraction. We extend our gratitude to the authors for generously sharing their clean and valuable code implementations. 
