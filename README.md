@@ -123,3 +123,21 @@ Select appropriate datasets and files:
 3. Create triples of context path using context_path.py (provide both entities to calculate path)
 
 4. You can check these files align with dataset using similarity.py and remove noise.
+
+
+ <h1>Citation</h1>
+    <p>Please cite:</p>
+    <pre>
+@article{Jain_Mutharaju_Kavuluru_Singh_2024,
+    title={Revisiting Document-Level Relation Extraction with Context-Guided Link Prediction},
+    volume={38},
+    url={https://ojs.aaai.org/index.php/AAAI/article/view/29792},
+    DOI={10.1609/aaai.v38i16.29792},
+    number={16},
+    journal={Proceedings of the AAAI Conference on Artificial Intelligence},
+    author={Jain, Monika and Mutharaju, Raghava and Kavuluru, Ramakanth and Singh, Kuldeep},
+    year={2024},
+    month={Mar.},
+    pages={18327-18335}
+}
+    </pre>
